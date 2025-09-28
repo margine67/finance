@@ -10,9 +10,6 @@
 ## 🚀 **Launch the Hub**
 **Live version: [FinanceHub](https://michaelsboost.com/finance/)**
 
-> 📲 **Progressive Web App (PWA) Ready**  
-> Add it to your home screen for instant access to all finance apps.
-
 ---
 
 ## 🗂️ **Included Apps**
@@ -56,6 +53,7 @@ These aren’t my creations, but they’ve earned a permanent spot in my toolkit
 Licensed under the **MIT License**.  
 
 **Developed by:** [Michael Schwartz](https://michaelsboost.com/)  
+**Built with:** [Polyrise](https://michaelsboost.com/Polyrise/)  
 
 ---
 
