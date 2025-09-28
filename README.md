@@ -3,7 +3,7 @@
 ## 🌟 Overview
 **FinanceHub** is the central hub for all my finance-related web apps. Instead of scattered links, you can explore everything here in one simple, mobile-friendly interface. From trading simulators and market dashboards to budgeting tools and renter guides—this is your one-stop hub for money apps.
 
-[![MIT License](https://img.shields.io/github/license/michaelsboost/FinanceHub)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/michaelsboost/FinanceHub)](https://github.com/michaelsboost/FinanceHub/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/michaelsboost/FinanceHub)](https://github.com/michaelsboost/FinanceHub/issues)
+[![MIT License](https://img.shields.io/github/license/michaelsboost/finance)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/michaelsboost/finance)](https://github.com/michaelsboost/finance/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/michaelsboost/finance)](https://github.com/michaelsboost/finance/issues)
 
 ---
 
